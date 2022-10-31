@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Member() {
   return (
-    <div className=' flex justify-center'>
+    <div className=' flex justify-center '>
         <div className=' border-2 rounded-3xl bg-opacity-10 bg-white'>
             <div className=' text-center pt-10 -mb-10 text-[#FF2B06] text-3xl font-bold'>Aryan Kumar</div>
             <div className=' flex justify-evenly items-center p-10'>
