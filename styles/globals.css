@@ -30,3 +30,16 @@ a {
     background: black;
   }
 }
+@layer base {
+  .glass-image-source {
+    border-style: solid;
+    border-width: 5px 0px;
+    border-image-source: linear-gradient(
+      142.08deg,
+      rgba(255, 255, 255, 0.7) -5.03%,
+      rgba(188, 188, 188, 0.85) 21.3%,
+      rgba(101, 84, 169, 0.2) 49.04%,
+      rgba(187, 187, 187, 0.5) 70.19%
+    );
+  }
+}
