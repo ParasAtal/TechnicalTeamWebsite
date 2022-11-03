@@ -9,13 +9,13 @@ const Footer = () => {
         <a href="" target="_blank">
           <Mail classname={iconclass} />
         </a>
-        <a href="" target="_blank">
+        <a href="https://www.instagram.com/tedxsrmist/" target="_blank">
           <Instagram classname={iconclass} />
         </a>
         <a href="" target="_blank">
           <Twitter classname={iconclass} />
         </a>
-        <a href="" target="_blank">
+        <a href="https://www.linkedin.com/company/tedxsrmist/mycompany/" target="_blank">
           <Linkedin classname={iconclass} />
         </a>
       </div>
